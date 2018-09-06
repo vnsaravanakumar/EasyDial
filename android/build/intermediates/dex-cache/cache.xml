@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\f18605b3fb85e4dd256b3bb16dad40d07b2bcc14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_c49df140852a4c82c8667167c304ace9525ba25a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\3146e12a764e606c26b7843b73fc4adc1405ab82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_ffb009a27197eec405ac4d6105bb470401a5aa1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_869d54db8e3c662e3702f1af4b0cb86f5d9b1a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\05f9feb99d342346c110b0acb49afa1ae69a6510\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_d7268cefba219b9eefa47186411e54b6388a5954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.10.0\7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e\okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\okhttp-3.10.0_68319d25da68d63f8d25b7c65677035877a19ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\a945472e3e7ab4ef1b4bedce5d4a28f297d426bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_20effcecbfc1cf0f0f68aed60b2d31e99229792b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\757c814e6fe275b2111c89a90c3ccd579aa355e8\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b67e8a042228f042c034d2fac47622f04c51f08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ad7aad08421387bb993a4d33d37e9ac6c98e0bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_5c5d2170da89cf154d5e11d6b4c7579a5d0b31b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_86b8a80f7a1c73ae022fd4fadac606c8a7d517b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\7c2c396d010714870659ab8107a4f281837f5f7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_7e1ae1cbb7748613343c0ed66ff3a53841cd2cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\b899b1c384bdc5f35abf33c909e84333ff658d38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_0870855b48e0d3498be5aefb596e49d1f7a5e618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\e57a54d04801c2445801d5e113bcd807c39e0927\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_ded0b16bb35fa17274477024541369fa29256047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_86b8a80f7a1c73ae022fd4fadac606c8a7d517b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\fca2b86706e038422866271cc7aef33dbdbc792f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_beabad91b0b39952f7cf7756c8e4ec268a189447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\a6fcdd081ff3214383aae9c039093000705302c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_5ba272c17137b9c9dfc602a5f10bc4e08efd4e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\db8cb59625f0b988a9d695eed540f6495c191510\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_130998226c70fb57678799f2f958a3d9f8405147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\757c814e6fe275b2111c89a90c3ccd579aa355e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_e1767978a2be882f2137c37bf177144fb22b136f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_5c5d2170da89cf154d5e11d6b4c7579a5d0b31b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\73ce0d2978727a8fe63b764dcf5d77c08fb6d88a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_90b774754c460825611027a922948f58e733520b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ad7aad08421387bb993a4d33d37e9ac6c98e0bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\10e7373e38b817b839f2629d7231134b12c0fd39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_0f043dfc5df96da691e4632350f107a4a22f8d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ad7aad08421387bb993a4d33d37e9ac6c98e0bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_539b721e0b13a4ba41b52dd734c42f4bc13debce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_acf5e7c710da514b8c129a54bcff2f9ae72789e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\okio-1.14.0_495789d6311522bd8bad38330376c5d1c640ccbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\5c0d62f85305005bd1aa5d7a88415f5a1e855e46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_f3cccfe7b40bc15da26354a34415e1c711ec606e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.10.0\ec614c05825ddd2267677a99f585d3913474b125\okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.10.0_2d92c49ff3ef1fc78d4e13a42496f6a7f3665186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\f18605b3fb85e4dd256b3bb16dad40d07b2bcc14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_c49df140852a4c82c8667167c304ace9525ba25a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\f07b482d9eb1dc6eee7c0873d2ad0878ebdc446c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_d26ebe1da6d61ce3474e83d1aa9b8db0779dbd3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_539b721e0b13a4ba41b52dd734c42f4bc13debce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\2fe8378bd82c9a237a8badf01c518c6027d3c600\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_68aae1b336e63389b77cb96c1ce1943790db8556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_5c5d2170da89cf154d5e11d6b4c7579a5d0b31b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\b1bf14512e2072c5665866d0e4dafdf44c813910\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_01e2c0b687f3a96c415814906ba73d475e87ad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\c8e67bf8fd0e5fd31bf12d1dbf0f2403385fbeec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_cdc1689687aabdb664107860e8145dd29aa40ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_539b721e0b13a4ba41b52dd734c42f4bc13debce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_86b8a80f7a1c73ae022fd4fadac606c8a7d517b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.android\build-cache\dcc52af19e4c9d7cd039324cf723ebdb2ee1b5d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\classes_e93edae4e29564d29b0240d62043f553ee117ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vnsar\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Saravana\Software\react native\EasyDial\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_180b3f512f178cc0e9bca78f8d7f3d3bf5cad483.jar" />
+    </item>
+
+</items>
